@@ -1,6 +1,5 @@
-# My Awesome Repository
 
-👋 Welcome to my awesome repository! Here you'll find some of my projects, skills, and experiences. Feel free to explore and learn more about me. Also, more welcome to check my porfolio webpage @ https://dylan4932.com
+👋 Welcome to my repository! Here you'll find some of my projects, skills, and experiences. Feel free to explore and learn more about me. Also, more welcome to check my porfolio webpage @ https://dylan4932.com
 
 ## About Me
 
