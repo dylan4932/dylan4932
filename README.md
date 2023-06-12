@@ -29,8 +29,6 @@
 📫 Feel free to reach out to me:
 
 - Email: dylan4932@hotmail.com
-- Phone: (+1) 647-687-3898
-
 
 🌟 Don't forget to leave a ⭐️ if you find my projects and skills interesting!
 
